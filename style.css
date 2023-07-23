@@ -1,9 +1,72 @@
+body {
+  background-color: #E9E7D2;
+  font-size: 25px;
+}
 .container {
     display: flex;
     align-items: center; 
    padding-left: 10px;
   }
-  img{
+img {
     margin-left: 10px ;
     margin-right: 10px;
   }
+
+h1 { 
+    color: white;
+    background-color: #588157;
+    font-size: 80px;
+    text-align: center;
+}
+.benefitimage {
+  border-radius: 8px;
+  width: 60px;
+  height: 60px;
+}
+
+.historyimg {
+  width: 100px;
+  height: 1200px;
+}
+
+#recipeimg {
+  border-radius: 50%;
+  height: 320px;
+  float: right;
+}
+
+#recipetitle {
+  background-color: black;
+  color: white;
+  height: 80px;
+  padding-top: 45px;
+  padding-left: 20px;
+  width: 980px;
+}
+#prepbox {
+  background-color: gray;
+  color: black;
+  padding-top: 60px;
+  padding-left: 30px;
+  padding-bottom: 120px;
+  width: 970px;
+  height: 20px;
+}
+
+h3 {
+  font-size: 40px;
+  color: #1D2E2b;
+}
+
+h5 {
+  font-size: 30px;
+  padding-left: 260px;
+  color: #010901;
+}
+.myfavtitle {
+  padding-left: 60px;
+}
+
+
+
+
